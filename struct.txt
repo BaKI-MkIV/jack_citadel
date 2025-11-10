@@ -1,0 +1,14 @@
+~/webserver/
+├── docker-compose.yml
+├── nginx/
+│   └── conf.d/default.conf
+├── html/houseofjack/        ← React build
+├── jack_citadel/
+│   ├── src/
+│   │   └── src/server.js
+│   ├── package.json
+│   ├── jsons/
+│   │   └── npcs/curators.json
+│   └── public/
+│       └── images/
+│           └── curator-empire.jpg
