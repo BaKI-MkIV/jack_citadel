@@ -1,0 +1,38 @@
+[
+  {
+    "path": "/plot",
+    "title": "Сюжет",
+    "tabsJson": "jsons/tabs/plot.json",
+    "subTabsExist": true
+  },
+  {
+    "path": "/npc",
+    "title": "Неигровые персонажи",
+    "tabsJson": [
+      "jsons/npcs/curators.json",
+      "jsons/npcs/handsome_jack.json"
+    ],
+    "subTabsExist": false
+  },
+  {
+    "path": "/handbook",
+    "title": "Справочник",
+    "tabsJson": [
+      "jsons/handbook/omens.json",
+      "jsons/handbook/magomachines.json"
+    ],
+    "subTabsExist": false
+  },
+  {
+    "path": "/homebrew",
+    "title": "Домашние правила",
+    "tabsJson": "jsons/homebrews/damages_update.json",
+    "subTabsExist": false
+  },
+  {
+    "path": "/creation",
+    "title": "Творчество",
+    "tabsJson": [],
+    "subTabsExist": false
+  }
+]
